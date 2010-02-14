@@ -12,5 +12,8 @@ pb    javascript:q=location.href;if(document.getSelection){d=document.getSelecti
 prl   javascript:q=location.href;p=document.title;void(t=open('http://pinboard.in/add?later=yes&noui=yes&jump=close&url='+encodeURIComponent(q)+'&title='+encodeURIComponent(p),'Pinboard','toolbar=no,width=100,height=100'));t.blur();  Add URL to list of 'to read' items on Pinboard
 pn    http://pinboard.in/note/add/  Add a note on Pinboard
 pin   http://pinboard.in/u:michaeltri/  Take me to my bookmarks on Pinboard
-
-
+gist  http://gist.github.com/  Create a new snippet on Gist
+txt   javascript:location.href='http://www.aaronsw.com/2002/html2text/?url='+document.location.href;  Convert current page to text (valid markdown)
+eye   javascript:void(window.open('http://tineye.com/search?pluginver=bookmark_1.0&url='%20+%20encodeURIComponent(document.URL)));  TinyEye: Where's this image from?
+tb    http://backtweets.com/search?q=%s  Show BackTweets of selected URL
+pdf   http://pdfmyurl.com?url=%r  Create a PDF from this page
