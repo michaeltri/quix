@@ -5,7 +5,8 @@
 > Syntax: http://quixapp.com/syntax/
 >
 
-@URL Shortening - Custom
-@A group of URL shorteners
-jmp		  http://j.mp/?v=3&u=%r&s=%s%20%t				Shorten with <a href="http://j.mp/">j.mp</a>
+@My Commands
+jmp   http://j.mp/?v=3&u=%r&s=%s%20%t       Shorten with <a href="http://j.mp/">j.mp</a>
+down  http://downforeveryoneorjustme.com/%d Is this site downforeveryoneorjustme?
+
 
