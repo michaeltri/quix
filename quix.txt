@@ -107,6 +107,7 @@ bitlyside	script:http://bit.ly/bookmarklet/load.js										<a href="http://bit.
 @A group of URL shorteners
 trim 		http://tr.im/marklet?url=%r						Shorten with <a href="http://tr.im/">Tr.im</a>
 bitly		http://bit.ly/?v=3&u=%r&s=%s%20%t				Shorten with <a href="http://bit.ly/">bit.ly</a>
+jmp		  http://j.mp/?v=3&u=%r&s=%s%20%t				Shorten with <a href="http://j.mp/">j.mp</a>
 awesm		http://create.awe.sm/url/share?target=%r 		Shorten with <a href="http://awe.sm/">awe.sm</a>
 
 @App Integration commands
